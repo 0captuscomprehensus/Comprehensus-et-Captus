@@ -1,0 +1,13 @@
+/* comprehensus-fonts.css
+   Embedded font data for Comprehensus et Captus
+   Place in same directory as the HTML files.
+   Link from HTML: <link rel="stylesheet" href="comprehensus-fonts.css">
+*/
+
+/* ── EMBEDDED FONTS — no external dependencies ── */
+
+@font-face {
+  font-family: 'IM Fell English';
+  font-style: normal;
+  font-weight: 400;
+  src: url('data:font/ttf;base64,AAEAAAATAQAABAAwR0RFRma9LK0AAWEAAAACxUdQT1PWJ+XDAAFjyAAA6rxHU1VCgQYEwgACToQAAAxkSFZBUsbJ/DQAAlroAAAEOU9TLzKHP1xYAAABuAAAAGBTVEFU6JHVqAACXyQAAAByY21hcEfAL7wAABAIAAA[...]
